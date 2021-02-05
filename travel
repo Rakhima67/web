@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #name {
+                color: rgb(97, 75, 31);
+            }
+        </style>
+    </head>
+    <body>
+    
+    
+        <h1 id="name">Travel to Italy</h1>
+        <p><strong>Italy,</strong> country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot.
+        
+        </p>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Letojanni-Sicilia-Italy-Castielli_CC0_HQ1.jpg/800px-Letojanni-Sicilia-Italy-Castielli_CC0_HQ1.jpg" alt="Italy" width="400"> 
+        <h2 id="name">Milan</h2>
+        <p>The destiny of <strong><em>Milan,</em></strong> like that of many of the world’s great cities, remains something of a historical paradox. There are powerful factors supporting the argument that Milan should have become the capital of a unified Italy, and this is the belief of many Milanese, in spite of the fact that the unity of Italy was actually born in Turin, rather than in Milan, in 1870. Milan, nevertheless, is the most industrious and vital city to have achieved prominence since the ancient land of Italy became aware of itself as a modern nation-state. </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/1200px-Milan_Cathedral_from_Piazza_del_Duomo.jpg" alt="Mian" width="400">
+        <h3 id="name">Rome</h3>
+        <p><strong><em>Rome,</em></strong>Italian Roma, historic city and capital of Roma provincia, of Lazio regione, and of the country of Italy. Rome is located in the central portion of the Italian peninsula, on the Tiber River about 15 miles inland from the Tyrrhenian Sea. Once the capital of an ancient republic and empire whose armies and polity defined the Western world in antiquity and left seemingly indelible imprints thereafter, the spiritual and physical seat of the Roman Catholic Church, and the site of major pinnacles of artistic and intellectual achievement, Rome is the Eternal City, remaining today a political capital, a religious centre, and a memorial to the creative imagination of the past. </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg" alt="Rome" width="400">
+        
+    </body>
+</html>
