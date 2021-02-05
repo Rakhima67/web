@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #name {
+            background-color: yellow;
+        }
+        .sourrce {
+            background-color: rgb(131, 131, 242);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Rakhima's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe">Recipe #1</a></li>
+        </ol>
+         <ol>
+            <li><a href="#recipe">Recipe #2</a></li>
+        </ol>
+         <ol>
+            <li><a href="#recipe">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="name">Recipe #1 Eggs</h2>
+        
+        <ul>
+            <li>Time: 5 min</li>
+            <li>Serves: 1 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Oil</td>
+                    <td>30 ml</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Take frying pan, eggs and oil.
+</p>
+        <p><strong>Step 2:</strong> Pour vegetable oil into a clean skillet and heat.
+</p>
+        <p><strong>Step 3:</strong> Crack the eggs and pour them into the skillet, being careful not to damage the yolk.
+</p>
+        <p><strong>Step 4:</strong> Season with salt to taste and cook for 2-3 minutes. Using a spatula, gently transfer the eggs to a plate and serve.
+</p>
+        
+        
+    <p class="sourrce"><em>Source: <a href="https://povar.ru/recipes/yaichnica_obychnaya-53132.html">Eggs recipe</a></em></p>
+    <h2 id="name">Recipe #2 Porridge</h2>
+    <ul>
+            <li>Time: 25 min</li>
+            <li>Serves: 3 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Rice</td>
+                    <td>1 glass</td>
+                </tr>
+                <tr>
+                    <td>Milk</td>
+                    <td>4 glass</td>
+                </tr>
+                <tr>
+                    <td>Sugar</td>
+                    <td>1 spoon</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Rinse the rice with warm water, pour into boiling water, cook for 8-10 minutes, stirring from time to time.
+</p>
+        <p><strong>Step 2:</strong> Place the rice on a sieve and let the water drain. Heat the milk in a 2 liter saucepan. Pour rice into milk, stir and cook.
+</p>
+        <p><strong>Step 3:</strong> Add sugar before switching off.
+</p>
+        <p><strong>Step 4:</strong> Wrap the porridge with a towel for 5-10 minutes.Before serving, milk rice porridge is seasoned with butter.
+</p>
+        
+        
+    <p class="sourrce"><em>Source: <a href="https://www.russianfood.com/recipes/recipe.php?rid=7221">Porridge recipe</a></em></p>
+    
+    <h2 id="name">Recipe #3 Pancakes</h2>
+        
+        <ul>
+            <li>Time: 30 min</li>
+            <li>Serves: 4 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Milk</td>
+                    <td>200 ml</td>
+                </tr>
+                <tr>
+                    <td>Flour</td>
+                    <td>200 g</td>
+                </tr>
+                <tr>
+                    <td>Egg</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Oil</td>
+                    <td>2 tablespoons</td>
+                </tr>
+                <tr>
+                    <td>Sugar</td>
+                    <td>30 g</td>
+                </tr>
+                <tr>
+                    <td>Baking powder</td>
+                    <td>5 g</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> In the container in which we will make the dough for pancakes, knock out the egg, add sugar.
+</p>
+        <p><strong>Step 2:</strong> Stir with a mixer or just a whisk until smooth and completely dissolved, add milk and butter, mix.
+</p>
+        <p><strong>Step 3:</strong> Sift flour and baking powder into a separate container. We mix everything very thoroughly, I recommend doing this with a whisk, so the result will be better. Add the sifted flour with baking powder to the container with the dough. Stir until smooth.
+</p>
+        <p><strong>Step 4:</strong> Put the pan on medium heat and heat well. Pour the dough into a hot skillet. Pancakes bake quite quickly, so I recommend pouring the dough for one pancake at a time.
+</p>
+        
+        
+    <p class="sourrce"><em>Source: <a href="https://art-lunch.ru/recipe/pankejki_foto/">Pancakes recipe</a></em></p>
+    </body>
+</html>
