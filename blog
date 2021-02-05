@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            #name {
+                background-color: rgb(155, 206, 250);
+                font-family: monospace;
+                font-size: 16px;
+            }
+            .paragraph {
+                background-color: rgb(228, 233, 242);
+                font-family: monospace;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Rom's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first trip">First trip!</a></li>
+            <li><a href="#first trip">Next journey!</a></li>
+            <li><a href="#first trip">My favourite trip ever!</a></li>
+        </ul>
+        
+        <h2 id="name">First trip</h2>
+        <h6>Posted: 18 feb. 2018</h6>
+        
+        <p class="paragraph">Somewhere on the way from Havana to Trinidad in Central Cuba’s Sancti Spiritus province, the van driver stops at a roadside rest stop, ushering all six of us passengers out into the open sun.
+
+The rest area is thatched with palm fronds, features a full bar, clean bathrooms and a gift shop.  Something about the place feels off, as if this well-stocked concession shouldn’t exist in the middle of nowhere.
+
+I decide not to go inside, and rather wait for the others in the sandy parking lot; my chance to look for the pedorrera, the bird that had driven me to Cuba in the first place.</p>
+
+        <h4 id="name">Next journey</h4>
+        <p class="paragraph"> The shock of the absurdity of these wages is audible, but Sabin continues.  “That is the official wage average, but everybody in Cuba has a second job.”
+
+The country had dipped its toes in free-market reforms since the year 2001, but it was not until the year 2010 that Cuba went full hog on granting rights to its citizens to become cuentapropistas - little on-your-own free-marketeers; service-sector entrepreneurs.
+
+When Raúl Castro, Fidel Castro’s brother, assumed power in 2008 and dabbled in loosening the constraints of communism, private industry spread across the country like wildfire in whatever forms it was allowed, and as Obama and Raúl marched toward détente, the entrepreneurial spirit in Cuba grew by the day. </p>
+
+        <h5 id="name">My favourite trip ever!</h5>
+        <p class="paragraph">Cuba has been intensively reforesting since 1998; thirty-percent of the country is now under the cover of trees.  Compare that to the year before the revolution, when trees covered only fourteen percent of the country, and to the age immediately prior to European settlement, when trees covered 90 percent of the island.
+
+It’s not that my view out the window is of a pristine and protected land, nor is it an abused and scarred environment.  What I think I am seeing is not really a story of a communist government’s failures and successes in protecting its land, so much as the story of the snail’s pace of third-world communist growth and development.  It’s the environment of a country that’s been tilled by mules.
+
+The land out here just isn’t needed or desired; the weeds are growing on the backs of a dilapidated economy.   Cuba is by far the largest island in the Caribbean, as the country is introduced to the economic engines of the West, and the strains of increased tourism, will deforestation, and similar stresses on the corals and other marine environments begin anew? </p>
+        
+    </body>
+</html>
