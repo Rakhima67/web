@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            #name {
+                color: blue;
+            }
+            #nname {
+                color: green;
+            }
+            #nnname {
+                color: red;
+            }
+        </style>
+            
+    </head>
+    <body>
+        
+        <h1 id="name">You're invited!</h1>
+        <h2 id="nname">Justin's Birthday</h2>
+        
+        <p id="nnname">Details:</p>
+        <ul>
+            <li>Day: 18 March </li>
+            <li>Time: 9 pm</li>
+            <li>Dress code: in black!
+        </ul>
+        
+    </body>
+</html>
